@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/primary">
+            </solid>
+        </shape>
+    </item>
+    <item android:gravity="center" android:height="20px" android:width="20px"/>
+    <item>
+        <inset android:drawable="@drawable/logoone"/>
+    </item>
+</layer-list>
